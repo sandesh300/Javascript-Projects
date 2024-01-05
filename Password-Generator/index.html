@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Random Password Generator</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-    
-     
+    <div class="container">
+        <h1>Generate a<br><span>Random Password</span></h1>
+        <div class="display">
+            <input type="text" id="password" placeholder="Password">
+            <img src="images/copy.png" onclick="copyPassword()">
+        </div>
+        <button onclick="createPassword()"><img src="images/generate.png"> Generate Password</button>
+    </div>
+    <div class="footer">
+        <a href="https://github.com/sandesh300" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+        <a href="mailto:bhujbalsandesh52@gmail.com"><i class="fas fa-envelope"></i> Email</a>
+        <a href="https://www.linkedin.com/in/sandesh-bhujbal-b3a16a222/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    </div>
+     <script src="script.js"> </script>
     </body>
 </html>

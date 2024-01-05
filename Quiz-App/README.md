@@ -1,11 +1,7 @@
 # Quiz App
 A simple Quiz App application with HTML, CSS, and JavaScript.
 
-
-
-
 ## Features
-
 - Responsive design for a seamless experience on various devices.
 - Multiple-choice questions with correct/incorrect feedback.
 - Score tracking and a final score display at the end of the quiz.
