@@ -1,5 +1,5 @@
 # Quiz App
-A simple Quiz List application with HTML, CSS, and JavaScript.
+A simple Quiz App application with HTML, CSS, and JavaScript.
 
 
 
