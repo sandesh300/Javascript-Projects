@@ -20,6 +20,10 @@ Welcome to the "30 Javascript Projects" repository! This repository contains a c
    - *Description:* An application that fetches movie data from an API and displays information about movies.
    - *Technologies:* HTML, CSS, JavaScript, Movies-API
 
+5. **Weather App API**
+   - *Description:* An application that fetches weather data from an API and displays information about weather.
+   - *Technologies:* HTML, CSS, JavaScript, Weather-API
+
 ## Setup Instructions
 
 1. Clone the repository to your local machine:
