@@ -18,7 +18,7 @@ Welcome to the "30 Javascript Projects" repository! This repository contains a c
 
 4. **Movies App API**
    - *Description:* An application that fetches movie data from an API and displays information about movies.
-   - *Technologies:* HTML, CSS, JavaScript, API
+   - *Technologies:* HTML, CSS, JavaScript, Movies-API
 
 ## Setup Instructions
 
