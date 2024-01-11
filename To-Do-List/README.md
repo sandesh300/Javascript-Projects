@@ -1,22 +1,20 @@
 # To-Do List App
-A simple To-Do List application with HTML, CSS, and JavaScript.
-
-## Website - https://to-do-app-sandesh300.tiiny.site
-[Live Demo](https://to-do-app-sandesh300.tiiny.site)
-
+This is a To-Do web application built with HTML, CSS, and JavaScript. The application allows users to add tasks and remove them as they are completed.
 
 ## Features
-1. Add tasks to the list.
-2. Remove tasks from the list.
-3. Tasks persist even after refreshing the page, thanks to local storage.
 
-## Getting Started
-Clone the repository:
+- **Add Task**: Users can add new tasks to the to-do list.
+- **Remove Task**: Users can mark tasks as completed and remove them from the list.
+- **Simple and Intuitive**: The interface is designed to be easy to use.
 
-## Usage
-1. Open the app in your web browser.
-2. Add tasks using the input field and the "Add" button.
-3. Click on a task to mark it as completed (or unmark it).
-4. Click on the "x" button next to a task to remove it from the list.
-5. Tasks persist even after refreshing the page, thanks to local storage.
+## Technology Used
+- HTML: Used for creating the structure and layout of the web page.
 
+- CSS: Used for styling and layout customization.
+
+- JavaScript: Used for adding interactivity to the web page, handling user input, and managing the to-do list.
+
+## homepage
+![Alt text](images/Screenshot%20(1014).png)
+
+![Alt text](images/Screenshot%20(1015).png)
