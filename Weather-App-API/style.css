@@ -61,3 +61,24 @@ main {
 #weather h4 {
     font-size: 20px;
 }
+.footer {
+    background-color: #010001;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    color: #ad1616;
+  }
+  
+  .footer i {
+    font-size: 24px;
+    margin-right: 5px;
+  }
