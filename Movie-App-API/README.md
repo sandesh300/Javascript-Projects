@@ -16,10 +16,10 @@ This is a simple Movie App web application created using HTML, CSS, and JavaScri
 - JavaScript: Implemented to enable dynamic and interactive features, such as searching for movies and displaying additional information.
 
 ### Homepage -
-![Alt text](image-2.png)
+![Alt text](images/Screenshot%20(1006).png)
 
 ### Search Movie- 
-![Alt text](image-1.png)
+![Alt text](images/Screenshot%20(1008).png)
 
 ## Getting Started
 Clone the repository:
