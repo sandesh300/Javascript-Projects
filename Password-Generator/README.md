@@ -1,5 +1,5 @@
 # Quiz App
-A Random Password Generator web App application with HTML, CSS, and JavaScript.
+A Random Password Generator web application with HTML, CSS, and JavaScript.
 
 ## Features
 - Generate strong and secure random passwords.
