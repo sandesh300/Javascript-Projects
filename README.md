@@ -1,6 +1,6 @@
-# 30 Javascript Projects
+#  Javascript Projects
 
-Welcome to the "30 Javascript Projects" repository! This repository contains a collection of 30 JavaScript projects that cover a range of web development topics. Each project is designed to help you practice and improve your JavaScript skills.
+Welcome to the **"Javascript Projects"** repository! This repository contains a collection of 30 JavaScript projects that cover a range of web development topics. Each project is designed to help you practice and improve your JavaScript skills.
 
 ## Projects
 
@@ -21,8 +21,12 @@ Welcome to the "30 Javascript Projects" repository! This repository contains a c
    - *Technologies:* HTML, CSS, JavaScript, Movies-API
 
 5. **Weather App API**
-   - *Description:* An application that fetches weather data from an API and displays information about weather.
+   - *Description:* This is a basic web application that provides current weather information for a given location.
    - *Technologies:* HTML, CSS, JavaScript, Weather-API
+
+6. **Music Player App**
+   - *Description:* This is a web application that functions as a Music player.
+   - *Technologies:* HTML, CSS, JavaScript.
 
 ## Setup Instructions
 
