@@ -28,6 +28,10 @@ Welcome to the **"Javascript Projects"** repository! This repository contains a 
    - *Description:* This is a web application that functions as a Music player.
    - *Technologies:* HTML, CSS, JavaScript.
 
+7. **QR Code Generator**
+   - *Description:* This is a web application generate QR Code using text and URL.
+- *Technologies:* HTML, CSS, JavaScript, QR API.
+
 ## Setup Instructions
 
 1. Clone the repository to your local machine:
