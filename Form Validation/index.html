@@ -1,41 +1,46 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Form Validation - Easy Tutorials YouTube Channel</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="https://kit.fontawesome.com/c4254e24a8.js" crossorigin="anonymous"></script>
-</head>
-<body>
-  <div class="container">
-    <form>
-      <i class="fas fa-paper-plane"></i>
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/c4254e24a8.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+      <form>
+        <i class="fas fa-paper-plane"></i>
 
-      <div class="input-group">
-        <label>Full Name</label>
-        <input type="text" placeholder="Enter your name">
-      </div>
+        <div class="input-group">
+          <label>Full Name</label>
+          <input type="text" placeholder="Enter your name" />
+          <span id="name-error">Name is required</span>
+        </div>
 
-      <div class="input-group">
-        <label>Phone No.</label>
-        <input type="tel" placeholder="123 456 7890">
-      </div>
+        <div class="input-group">
+          <label>Phone No.</label>
+          <input type="tel" placeholder="123 456 7890" />
+          <span id="phone-error">Phone is required</span>
+        </div>
 
-      <div class="input-group">
-        <label>Email Id</label>
-        <input type="email" placeholder="Enter Email">
-      </div>   
+        <div class="input-group">
+          <label>Email Id</label>
+          <input type="email" placeholder="Enter Email" />
+          <span id="email-error">Email is required</span>
+        </div>
 
-      <div class="input-group">
-        <label>Your Message</label>
-        <textarea rows="5" placeholder="Enter your message"></textarea>
-      </div>
+        <div class="input-group">
+          <label>Your Message</label>
+          <textarea rows="5" placeholder="Enter your message"></textarea>
+          <span id="message-error">Message is required</span>
+        </div>
 
-    <button>Submit</button>
-   
-  </form>
-  
-  </div>
-   
-</body>
+        <button>Submit</button>
+        <span id="submit-error">Please Fix Error</span>
+      </form>
+    </div>
+  </body>
 </html>
