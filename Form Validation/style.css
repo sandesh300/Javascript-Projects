@@ -49,6 +49,8 @@ body {
 /* Input Group Styles */
 .input-group {
     width: 100%;
+    font-style: normal;
+    font-weight: bold;
     display: flex;
     align-items: center;
     margin: 10px 0;
@@ -59,17 +61,7 @@ body {
     flex-basis: 28%;
 }
 
-.input-group input,
-.input-group textarea {
-    flex-basis: 68%;
-    background: transparent;
-    border: 0;
-    outline: 0;
-    padding: 10px 0;
-    border-bottom: 1px solid #999;
-    color: #333;
-    font-size: 16px;
-}
+
 
 /* Placeholder Styles */
 ::placeholder {
