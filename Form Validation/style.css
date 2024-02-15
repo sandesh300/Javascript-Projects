@@ -1,113 +1,111 @@
-
 /* Reset */
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 /* Fonts */
 body {
-    font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 /* Container Styles */
 .container {
-    width: 100%;
-    height: 100vh;
-    background: #141a34;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background: #141a34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-
 
 /* Form Styles */
 .container form {
-    width: 90%;
-    max-width: 500px;
-    padding: 50px 30px 20px;
-    background: #fff;
-    border-radius: 4px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
-    position: relative;
+  width: 90%;
+  max-width: 500px;
+  padding: 50px 30px 20px;
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+  position: relative;
 }
 
 /* Form Submission Button */
 .fa-paper-plane {
-    position: absolute;
-    top: 0;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background: #fff;
-    font-size: 26px;
-    padding: 20px;
-    border-radius: 50%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  font-size: 26px;
+  padding: 20px;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 /* Input Group Styles */
 .input-group {
-    width: 100%;
-    font-style: normal;
-    font-weight: bold;
-    display: flex;
-    align-items: center;
-    margin: 10px 0;
-    position: relative;
+  width: 100%;
+  font-style: normal;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+  position: relative;
 }
 
 .input-group label {
-    flex-basis: 28%;
+  flex-basis: 28%;
 }
-
-
 
 /* Placeholder Styles */
 ::placeholder {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 /* Form Submission Button Styles */
 form button {
-    background: #141a34;
-    color: #fff;
-    border-radius: 4px;
-    border: 1px solid rgba(255, 255, 255, 0.7);
-    padding: 10px 40px;
-    outline: 0;
-    cursor: pointer;
-    display: block;
-    margin: 30px auto 10px;
+  background: #141a34;
+  color: #fff;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  padding: 10px 40px;
+  outline: 0;
+  cursor: pointer;
+  display: block;
+  margin: 30px auto 10px;
 }
 
 /* Input Styles */
 .input-group input,
 .input-group textarea {
-    flex-basis: 68%;
-    background: transparent;
-    border: 0;
-    outline: 0;
-    padding: 10px 0;
-    border-bottom: 1px solid #999;
-    color: #333;
-    font-size: 16px;
-    /* Add box styling */
-    border: 1px solid #999;
-    border-radius: 4px;
-    padding: 10px;
-    margin-right: 10px; /* Optional: Add some spacing between inputs */
+  flex-basis: 68%;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  padding: 10px 0;
+  border-bottom: 1px solid #999;
+  color: #333;
+  font-size: 16px;
+  /* Add box styling */
+  border: 1px solid #999;
+  border-radius: 4px;
+  padding: 10px;
+  margin-right: 10px; /* Optional: Add some spacing between inputs */
 }
-.input-group span{
-    position: absolute;
-    bottom: 12px;
-    right: 17px;
-    font-size: 14px;
-    color: red;
+.input-group span {
+  position: absolute;
+  bottom: 12px;
+  font-weight: lighter;
+  right: 17px;
+  font-size: 14px;
+  color: red;
 }
-#submit-error{
-    color: red;
+#submit-error {
+  font-weight: lighter;
+  color: red;
 }
-.input-group span i{
-    color: seagreen;
+.input-group span i {
+  color: seagreen;
 }
