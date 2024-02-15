@@ -30,7 +30,11 @@ Welcome to the **"Javascript Projects"** repository! This repository contains a 
 
 7. **QR Code Generator**
    - *Description:* This is a web application generate QR Code using text and URL.
-- *Technologies:* HTML, CSS, JavaScript, QR API.
+   - *Technologies:* HTML, CSS, JavaScript, QR API.
+
+8. **Form Validation**
+   - *Description:* This is a form validation web application.
+   - *Technologies:* HTML, CSS, JavaScript.
 
 ## Setup Instructions
 
